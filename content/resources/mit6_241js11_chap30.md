@@ -5,6 +5,8 @@ description: This resource contains information related to minimality and stabil
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/5e41c2e287bde74f5326d258e89c951c_MIT6_241JS11_chap30.pdf
 file_size: 518819
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

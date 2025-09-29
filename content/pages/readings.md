@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains course notes and a list of reading assignments
   for each lecture.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -5,6 +5,8 @@ description: 'This resource contains information related to interconnected syste
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/d66fe63cfc96990122d04f9b725a0d67_MIT6_241JS11_chap17.pdf
 file_size: 720919
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains information related to simulation/realizatio
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/f5b9d1c7ca91995867450a5ceead5cbb_MIT6_241JS11_chap08.pdf
 file_size: 707967
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information related to reachability of DT LT
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/ad9e1b5aebb99dde71ba1e744860bbbb_MIT6_241JS11_chap22.pdf
 file_size: 548444
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

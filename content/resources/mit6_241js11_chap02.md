@@ -4,6 +4,8 @@ description: This resource contains information related to least squares estimat
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/32a900aa95e0ad95fe86b64b5c6b7690_MIT6_241JS11_chap02.pdf
 file_size: 741456
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information related to matrix norms and sing
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/04fddfbcb1eb933ecca85dab8bfbb171_MIT6_241JS11_chap04.pdf
 file_size: 723100
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

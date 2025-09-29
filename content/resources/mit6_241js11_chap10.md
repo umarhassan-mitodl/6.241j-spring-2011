@@ -5,6 +5,8 @@ description: This resource contains information related to discrete-time linear 
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/bab3ecdb64baf945acd206d8f370167f_MIT6_241JS11_chap10.pdf
 file_size: 613874
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

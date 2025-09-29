@@ -4,6 +4,8 @@ description: This resource contains information related to matrix perturbations.
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/855766ddb3a22777d5425518c0ad51d2_MIT6_241JS11_chap05.pdf
 file_size: 711328
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

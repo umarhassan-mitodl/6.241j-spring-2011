@@ -4,6 +4,8 @@ description: This resource contains information related to linear algebra review
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/5371e2d17a12ccb961e5f86f1b135204_MIT6_241JS11_chap01.pdf
 file_size: 586538
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains solutions for exercises 3.2, 3.3, 4.1, 4.5, 
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/75908b66f1cb0a2c2e32d72ec57361e5_MIT6_241JS11_assn03_sol.pdf
 file_size: 287867
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

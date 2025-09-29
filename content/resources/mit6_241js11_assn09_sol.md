@@ -5,6 +5,8 @@ description: This resource contains solutions for exercises 21.1, 21.2, 21.3, 22
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/a2e8f53e7fc45b583a2f1a106fdc6d88_MIT6_241JS11_assn09_sol.pdf
 file_size: 288408
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

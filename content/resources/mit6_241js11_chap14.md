@@ -5,6 +5,8 @@ description: This resource contains information related to internal stability fo
 file: /courses/6-241j-dynamic-systems-and-control-spring-2011/69f0c2bb46799fce14117b510d57cbf0_MIT6_241JS11_chap14.pdf
 file_size: 664546
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
